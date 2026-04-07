@@ -36,12 +36,7 @@
     width="60%"
     alt="profile details"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBis&layout=compact&theme=tokyonight&hide_border=false"
-    height="160px"
-    width="35%"
-    alt="languages graph"
-  />
+
 </p>
 
 
