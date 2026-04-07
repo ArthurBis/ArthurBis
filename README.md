@@ -1,5 +1,5 @@
 <h1 align="center">Arthur Bis</h1>
-<h3 align="center">💻 I'm a Computer Science student and Developer from Brazil 🇧🇷</h3>
+<h3 align="center">Computer Science Student @ Centro Universitário Barão de Mauá | Full Stack Developer | React & Java</h3>
 
 ---
 
